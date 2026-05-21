@@ -12,7 +12,7 @@ app.get("/", (req, res) => {
 
 app.get("/api", (req, res) => {
   res.json({
-    mensagem: "API online!"
+    mensagem: "API online testeeeeee!"
   });
 });
 
